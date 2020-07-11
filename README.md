@@ -1,4 +1,17 @@
-### Hi there 👋
+### hello  👋
+
+
+I'm Jake. I'm an ecological data scientist and data visualization enthusiast currently working towards my PhD at McGill University in Montreal, QC, Canada. 🍁
+
+Currently, I'm using data to understand how climate and climate change shape where species are, and where else they might go. 
+
+
+Here, you'll find resources for marine science, my practice data vis, and general R goodies. 
+
+  <a href="https://twitter.com/jake_lawlor1">
+    <img src="https://raw.githubusercontent.com/MikeCodesDotNET/MikeCodesDotNET/a8abbf37441f3253f74ea255a47f289208d7568c/Resources/twitter.svg" alt="Twitter" style="vertical-align:top; margin:4px">
+  </a>  
+
 
 <!--
 **jakelawlor/jakelawlor** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
