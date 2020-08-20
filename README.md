@@ -8,8 +8,19 @@ Currently, I'm using data to understand how climate and climate change shape whe
 
 Here, you'll find resources for marine science, my practice data vis, and general R goodies. 
 
+****
+
+### places to get started: 
+- [PNWColors](https://github.com/jakelawlor/PNWColors), a color package I made based on natural beauty of Washington State
+- [Tidy Tuesday](https://github.com/jakelawlor/TidyTuesday_JL) a weekly(ish) practice data vis portfolio
+
+
+
+****
+### find me elsewhere: 
+
   <a href="https://twitter.com/jake_lawlor1">
-    <img src="https://raw.githubusercontent.com/MikeCodesDotNET/MikeCodesDotNET/a8abbf37441f3253f74ea255a47f289208d7568c/Resources/twitter.svg" alt="Twitter" style="vertical-align:top; margin:4px">
+    <img src="https://raw.githubusercontent.com/MikeCodesDotNET/MikeCodesDotNET/a8abbf37441f3253f74ea255a47f289208d7568c/Resources/twitter.svg" alt="Twitter" style="vertical-align:top; margin:2px">
   </a>  
 
 
