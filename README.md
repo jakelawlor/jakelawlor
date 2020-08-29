@@ -1,4 +1,4 @@
-### hello  👋
+### hello!
 
 
 I'm Jake. I'm an ecological data scientist and data visualization enthusiast currently working towards my PhD at McGill University in Montreal, QC, Canada. 🍁
