@@ -9,7 +9,9 @@ Currently, I'm using data to understand how climate and climate change shape whe
 
 Here, you'll find resources for marine science, my practice data vis, and general R goodies. 
 
-****
+
+<br>
+
 
 # places to get started: 
 - [PNWColors](https://github.com/jakelawlor/PNWColors), an R color package I made inspired by nature in Washington State
@@ -17,7 +19,9 @@ Here, you'll find resources for marine science, my practice data vis, and genera
 
 
 
-****
+
+<br>
+
 # find me elsewhere: 
 
   <a href="https://twitter.com/jake_lawlor1">
