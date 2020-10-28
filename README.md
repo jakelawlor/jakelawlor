@@ -12,7 +12,7 @@ Here, you'll find resources for marine science, my practice data vis, and genera
 ****
 
 # places to get started: 
-- [PNWColors](https://github.com/jakelawlor/PNWColors), a color package I made based on natural beauty of Washington State
+- [PNWColors](https://github.com/jakelawlor/PNWColors), an R color package I made inspired by nature in Washington State
 - [Tidy Tuesday](https://github.com/jakelawlor/TidyTuesday_JL) a weekly(ish) practice data vis portfolio
 
 
