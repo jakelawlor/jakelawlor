@@ -1,6 +1,9 @@
-# hello! 
+<h3 align="center"> hello! I'm Jake. </h3>
+<p align="center">
+  <a href="https://twitter.com/jake_lawlor1">Twitter</a>
+</p>
 
-I'm Jake. 
+----
 
 I'm an ecological data scientist and data visualization enthusiast currently working towards my PhD at McGill University in Montréal, QC, Canada. 🍁
 
@@ -13,20 +16,15 @@ Here, you'll find resources for marine science, my practice data vis, and genera
 <br>
 
 
-# places to get started: 
+<h3 align="center"> places to get started </h3>
+
+----
 - [PNWColors](https://github.com/jakelawlor/PNWColors), an R color package I made inspired by nature in Washington State
 - [Tidy Tuesday](https://github.com/jakelawlor/TidyTuesday_JL) a weekly(ish) practice data vis portfolio
 
 
 
 
-<br>
-
-# find me elsewhere: 
-
-  <a href="https://twitter.com/jake_lawlor1">
-    <img src="https://raw.githubusercontent.com/MikeCodesDotNET/MikeCodesDotNET/a8abbf37441f3253f74ea255a47f289208d7568c/Resources/twitter.svg" alt="Twitter" style="vertical-align:top; margin:2px">
-  </a>  
 
 
 <!--
