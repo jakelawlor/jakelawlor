@@ -1,4 +1,4 @@
-<h3 align="center"> hello! I'm Jake. </h3>
+<h1 align="center"> hello! I'm Jake. </h1>
 <p align="center">
   <a href="https://twitter.com/jake_lawlor1">Twitter</a>
 </p>
