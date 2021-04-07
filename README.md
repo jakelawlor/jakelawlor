@@ -7,7 +7,6 @@ I'm an ecological data scientist and data visualization enthusiast currently wor
 Here, you'll find resources for marine science, reprocible data vis projects, and general R goodies. 
 
 
-<br>
 
 
 ## places to get started 
