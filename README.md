@@ -1,27 +1,28 @@
-<h1 align="center"> hello! I'm Jake. </h1>
-<p align="center">
-  <a href="https://twitter.com/jake_lawlor1">Twitter</a>
-</p>
-
-----
-
-I'm an ecological data scientist and data visualization enthusiast currently working towards my PhD at McGill University in Montréal, QC, Canada. 🍁
-
-Currently, I'm using data to understand how climate and climate change shape where species are, and where else they might go. 
+# hello! I'm Jake. 
 
 
-Here, you'll find resources for marine science, my practice data vis, and general R goodies. 
+I'm an ecological data scientist and data visualization enthusiast currently working towards my PhD in the [Sunday Lab](http://jennsunday.weebly.com/team.html) at McGill University in Montréal, QC, Canada. 🍁 Currently, I'm using long-term data to understand how climate and climate change shape where species are, and where else they might go. 
+
+
+Here, you'll find resources for marine science, reprocible data vis projects, and general R goodies. 
 
 
 <br>
 
 
-<h3 align="center"> places to get started </h3>
+## places to get started 
 
-----
+
 - [PNWColors](https://github.com/jakelawlor/PNWColors), an R color package I made inspired by nature in Washington State
 - [Tidy Tuesday](https://github.com/jakelawlor/TidyTuesday_JL) a weekly(ish) practice data vis portfolio
 
+
+## find me elsewhere 
+
+
+  <a href="https://twitter.com/Jake_Lawlor1">
+    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
+  </a>&nbsp;&nbsp;
 
 
 
