@@ -22,6 +22,12 @@ Here, you'll find resources for marine science, reprocible data vis projects, an
   <a href="https://twitter.com/Jake_Lawlor1">
     <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
   </a>&nbsp;&nbsp;
+  
+  
+  <a href="https://jakelawlor.github.io">
+    <img src="https://custom-icon-badges.herokuapp.com/badge/-My%20Website-02bdd5?style=for-the-badge&logoColor=white&logo=device-desktop" />
+  </a>&nbsp;&nbsp;
+
 
 
 
