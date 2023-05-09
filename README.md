@@ -4,7 +4,7 @@
 I'm an ecological data scientist and data visualization enthusiast currently working towards my PhD in the [Sunday Lab](http://jennsunday.weebly.com/team.html) at McGill University in Montréal, QC, Canada. 🍁 Currently, I'm using long-term data to understand how climate and climate change shape where species are, and where else they might go. 
 
 
-Here, you'll find resources for marine science, reprocible data vis projects, and general R goodies. 
+Here, you'll find resources for marine science, reproducible data vis projects, and general R goodies. 
 
 
 
